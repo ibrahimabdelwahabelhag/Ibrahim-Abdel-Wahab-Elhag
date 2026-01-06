@@ -60,7 +60,7 @@ Check back soon for updates! 🎯
 ## 📫 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/ibrahim-abdelwahab-elhag-fadlalla" target="blank">
+  <a href="https://www.linkedin.com/in/ibrahim-abdelwahab-elhag" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://x.com/ibrahimabdelwahabelhag" target="blank">
