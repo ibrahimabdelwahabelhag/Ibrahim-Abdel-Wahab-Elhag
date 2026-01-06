@@ -74,7 +74,7 @@ Check back soon for updates! 🎯
 ---
 ## 📈 Profile Status
 
-![Profile Views](https://komarev.com/ghpvc/?username=https://github.com/ibrahimabdelwahabelhag/Ibrahim-Abdel-Wahab-Elhag&color=blueviolet&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=https://github.com/ibrahimabdelwahabelhag&color=blueviolet&style=flat-square&label=Profile+Views)
 
 ---
 
