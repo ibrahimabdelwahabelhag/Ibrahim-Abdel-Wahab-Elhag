@@ -1,10 +1,10 @@
-## Hi Developers, I'm Ibrahim Abdelwahab Elhag 👋
+# Hi Developers, I'm Ibrahim Abdelwahab Elhag 👋
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20is%20where%20art%20meets%20logic." alt="Quote" />
 </p>
 
-👨‍💻 About Me
+## 👨‍💻 About Me
 
 🎓 **Student** | 💻 **Software Developer** | 🔥 **Passionate about Coding**
 
@@ -17,6 +17,7 @@ I am a passionate Software Developer dedicated to building robust applications a
 ---
 
 ## 🚀 Technical Stack
+
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -31,14 +32,15 @@ I am a passionate Software Developer dedicated to building robust applications a
 
 ---
 
-## 📊 GitHub Status
+## 📊 GitHub Stats
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ibrahimabdelwahabelhag&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimabdelwahabelhag&layout=compact&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimabdelwahabelhag&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
@@ -50,6 +52,7 @@ I'm currently working on refining my projects before publishing them here. Stay 
 
 **Upcoming Projects:**
 - 📚 **Ibn Zaher E-Maqra'a** (Full Stack Project) - Digital Islamic learning platform
+
 Check back soon for updates! 🎯
 
 ---
@@ -60,21 +63,22 @@ Check back soon for updates! 🎯
   <a href="https://www.linkedin.com/in/ibrahim-abdelwahab-elhag-fadlalla" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://x.com/1br_Him" target="blank">
+  <a href="https://x.com/ibrahimabdelwahabelhag" target="blank">
     <img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
-  <a href="https://www.facebook.com/profile.php?id=61585771546554" target="blank">
+  <a href="https://www.facebook.com/me" target="blank">
     <img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://t.me/@Ibrahim_abdelwahab_elhag" target="blank">
+  <a href="https://t.me/ibrahimabdelwahabelhag" target="blank">
     <img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </p>
 
 ---
-## 📈 Profile Status
 
-![Profile Views](https://komarev.com/ghpvc/?username=https://github.com/ibrahimabdelwahabelhag&color=blueviolet&style=flat-square&label=Profile+Views)
+## 📈 Profile Stats
+
+![Profile Views](https://komarev.com/ghpvc/?username=ibrahimabdelwahabelhag&color=blueviolet&style=flat-square)
 
 ---
 
